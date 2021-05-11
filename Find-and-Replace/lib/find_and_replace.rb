@@ -1,8 +1,3 @@
-require("pry")
-
-# print "Enter a string: "
-# input = gets.chomp
-
 class String
   def find_and_replace(find, replace)
     temp_string = self.split(" ")
@@ -16,7 +11,3 @@ class String
     temp_string.join(" ")
   end
 end
-
-# "dogs are cool".find_and_replace("dogs", "cats")
-# "dogs are cool".find_and_replace("ool", "oooooooool")
-# "lets get this bread".find_and_replace("get", "eat")

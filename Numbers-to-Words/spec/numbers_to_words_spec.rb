@@ -1,2 +1,2 @@
 require("rspec")
-require("numbers-to-words")
+require("numbers_to_words")
