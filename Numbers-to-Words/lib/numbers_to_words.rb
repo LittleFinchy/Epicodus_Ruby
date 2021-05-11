@@ -1,7 +1,4 @@
-require("pry")
-
-# print "Enter a Number: "
-# num = gets.chomp
+# NOT FINISHED YET
 
 num = "81200"
 
