@@ -5,6 +5,3 @@ class String
     self == self.reverse()
   end
 end
-
-# puts "racecar".palindrome?
-# puts "bread".palindrome?
