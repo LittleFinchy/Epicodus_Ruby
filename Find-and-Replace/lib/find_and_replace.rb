@@ -13,10 +13,10 @@ class String
         end
       end
     end
-    puts temp_string.join(" ")
+    temp_string.join(" ")
   end
 end
 
-"dogs are cool".find_and_replace("dogs", "cats")
-"dogs are cool".find_and_replace("ool", "oooooooool")
-"lets get this bread".find_and_replace("get", "eat")
+# "dogs are cool".find_and_replace("dogs", "cats")
+# "dogs are cool".find_and_replace("ool", "oooooooool")
+# "lets get this bread".find_and_replace("get", "eat")
