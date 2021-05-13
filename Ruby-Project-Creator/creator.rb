@@ -34,6 +34,3 @@ class Creator
     write_text("source 'https://rubygems.org'\n\ngem 'rspec'\ngem'fileutils'", "#{project}/Gemfile")
   end
 end
-
-demo = Creator.new
-demo.build("banan_bread")
